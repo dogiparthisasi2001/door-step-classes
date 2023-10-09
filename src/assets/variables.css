@@ -1,0 +1,13 @@
+:root {
+  --nav-bar-desktop-color: teal;
+  --nav-bar-desktop-text-color: white;
+  --nav-bar-mobile-color: teal;
+  --nav-bar-mobile-text-color: white;
+  --primary-color: teal;
+  --primary-surface-color: white;
+  --primary-text-color: white;
+
+  --error-text-color: red;
+
+  --mdc-theme-primary: teal;
+}
